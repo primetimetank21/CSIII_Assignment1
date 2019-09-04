@@ -20,9 +20,8 @@
  
  Assumptions
  § User will create a linked list of doubles
- § 
- §
- §
+ § User will enter commands
+ § User will enter values that make sense (i.e. doubles/ints)
  */
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
